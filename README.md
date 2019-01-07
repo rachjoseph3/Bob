@@ -1,0 +1,2 @@
+# Bob
+A Co-Worker needed a very specific tool to help him view a bunch of shapefiles/feature classes so I made Bob to help solve the problem. It takes a feature class or shapefile with a column in it that lists the names of the many feature classes or shapefiles you want to view, parses through that feature class to retrieve each of the many feature classes you want to view and displays them to a map document of your choice.
